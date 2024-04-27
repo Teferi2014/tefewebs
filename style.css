@@ -1,0 +1,33 @@
+center {
+      width: 400px;
+      height:50px;
+      background-color:#7f666f;
+       }
+h1 {
+  width: 400px;
+  height: 100px;
+  background-color:#02272c;
+  border-style: solid;
+  border-color: #2a2a2d;
+  border-width: thick;
+  text-align: center;
+  color: goldenrod;
+}
+h2 {
+  width: 400px;
+  background-color: #390909;
+  border-style: solid;
+  border-color: #1f381f;
+  border-width: medium;
+  text-align: center;
+  color: yellow;
+}
+p1 { 
+  background-color: #282b27;
+  border-style: solid;
+  border-color: green;
+  border-width: medium;
+  text-align: center;
+  color: #0dc9bd;
+}
+
